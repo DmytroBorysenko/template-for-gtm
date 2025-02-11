@@ -1,5 +1,9 @@
 homepage: "https://www.binotel.ua/ua"
 documentation: "https://www.example.com/documentation"
 versions:
+ # Latest version
+  - sha: 7da3725b7d7a3835a1dabd96ae436f6b90acab7f
+    changeNotes: fix name
+# Older versions
   - sha: 88c5c71773e5997016c3cb15021ff6c2d5711b6f
     changeNotes: Initial release.
